@@ -1,0 +1,12 @@
+Code for NL is de community van developers en designers die samenwerken aan een open en eerlijke digitale overheid en samenleving. Voor meer info https://www.codefor.nl
+
+Nu actueel over het digitaal bestrijden van het coronavirus:
+
+<#CVA9LGHMM|corona>: praat mee over corona en de verschillende community projecten
+<#C011R4NCFMJ|notificatie-app>: algemene discussie over de COVID19-notificatie-app
+<#C014YNF14MN|notificatie-app-design>: praat mee, geef feedback, en ontwerp mee aan de COVID19-notificatie-app
+<#C010FFMQMU4|corona-data>: databronnen in kaart brengen
+
+Op deze Slack omgeving geldt de Code for NL *gedragscode* (https://github.com/codefornl/gedragscode). Voor vragen en opmerkingen is het *bestuur* te vinden op <#CDBR8Q56W|code-for-nl-bestuur>.
+
+Veel plezier!

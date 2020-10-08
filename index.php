@@ -86,7 +86,7 @@ function getError() {
     <head>
         <meta name="viewport" content="width=320,initial-scale=1,user-scalable=0">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <link rel="shortcut icon" sizes="128x128" href="https://www.codefor.nl/img/CfNL.png" />
+        <link rel="shortcut icon" sizes="128x128" href="https://codefor.nl/img/CfNL.png" />
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
         <link rel="stylesheet" href="https://www.codefor.nl/css/reset.css" type="text/css" media="all">
         <link rel="stylesheet" href="https://www.codefor.nl/css/style.css" type="text/css" media="all">
@@ -153,7 +153,7 @@ function getError() {
                 <h2>Praat mee op onze Slack<br>en doe mee!<br><a href="https://codefornl.slack.com">codefornl.slack.com</a></h2>
                 <section class="slack"><?php showContent() ?></section>
                 <a href="https://www.codefor.nl" class="logo">
-                    <img alt="</" src="https://www.codefor.nl/img/larger_CfNL.png">
+                    <img alt="</" src="https://codefor.nl/img/larger_CfNL.png">
                     <h1>Code for NL</h1>
                 </a>
             </div>

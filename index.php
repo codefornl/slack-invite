@@ -152,7 +152,7 @@ function getError() {
             <div class="wrapper">
                 <h2>Praat mee op onze Slack<br>en doe mee!<br><a href="https://codefornl.slack.com">codefornl.slack.com</a></h2>
                 <section class="slack"><?php showContent() ?></section>
-                <a href="https://www.codefor.nl" class="logo">
+                <a href="https://codefor.nl" class="logo">
                     <img alt="</" src="https://codefor.nl/img/larger_CfNL.png">
                     <h1>Code for NL</h1>
                 </a>

@@ -88,8 +88,8 @@ function getError() {
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <link rel="shortcut icon" sizes="128x128" href="https://codefor.nl/img/CfNL.png" />
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-        <link rel="stylesheet" href="https://www.codefor.nl/css/reset.css" type="text/css" media="all">
-        <link rel="stylesheet" href="https://www.codefor.nl/css/style.css" type="text/css" media="all">
+        <link rel="stylesheet" href="https://codefor.nl/css/reset.css" type="text/css" media="all">
+        <link rel="stylesheet" href="https://codefor.nl/css/style.css" type="text/css" media="all">
         <script src="https://use.fontawesome.com/164ce3f549.js"></script>
        <style>
             body {

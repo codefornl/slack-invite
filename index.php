@@ -1,6 +1,6 @@
 <?php
 
-$nav = file_get_contents("https://www.codefor.nl/nav");
+$nav = file_get_contents("https://codefor.nl/nav");
 
 $rs = [];
 
